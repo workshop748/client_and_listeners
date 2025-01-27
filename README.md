@@ -1,2 +1,3 @@
-# client_and_listeners
- Learning tcp_sockets_with_rust
+# Sockets Rust
+what I am doing is using rust for socket programing
+using the sockets I am able to communicate with a client and a server

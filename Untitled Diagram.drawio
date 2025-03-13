@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Page-1" id="tLHwrkM-wzCIRf1tk1B5">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="40" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-2" value="&lt;div&gt;Price Chopper.&lt;/div&gt;&lt;div&gt;Authentication server&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="40" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-4" value="&lt;div&gt;End User&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-5" value="Cloud Server" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="40" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.075;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.05;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XSRPKOpI-HlXhGbNsBGN-1" target="XSRPKOpI-HlXhGbNsBGN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-8" value="Auth Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.05;exitY=0.149;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.05;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XSRPKOpI-HlXhGbNsBGN-3" target="XSRPKOpI-HlXhGbNsBGN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-10" value="Credential Response" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.025;exitY=0.304;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XSRPKOpI-HlXhGbNsBGN-1" target="XSRPKOpI-HlXhGbNsBGN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-14" value="Credential Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.05;exitY=0.374;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.075;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XSRPKOpI-HlXhGbNsBGN-3" target="XSRPKOpI-HlXhGbNsBGN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="430" as="sourcePoint" />
+            <mxPoint x="480" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="400" />
+              <mxPoint x="480" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -31,31 +31,13 @@
         <mxCell id="XSRPKOpI-HlXhGbNsBGN-8" value="Auth Request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="240" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XSRPKOpI-HlXhGbNsBGN-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.05;exitY=0.149;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.05;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XSRPKOpI-HlXhGbNsBGN-3" target="XSRPKOpI-HlXhGbNsBGN-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XSRPKOpI-HlXhGbNsBGN-10" value="Credential Response" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="370" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XSRPKOpI-HlXhGbNsBGN-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.025;exitY=0.304;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XSRPKOpI-HlXhGbNsBGN-1" target="XSRPKOpI-HlXhGbNsBGN-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="sourcePoint" />
-            <mxPoint x="450" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XSRPKOpI-HlXhGbNsBGN-14" value="Credential Request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="290" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XSRPKOpI-HlXhGbNsBGN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.05;exitY=0.374;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.075;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XSRPKOpI-HlXhGbNsBGN-3" target="XSRPKOpI-HlXhGbNsBGN-3" edge="1">
+        <mxCell id="XSRPKOpI-HlXhGbNsBGN-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.075;exitY=0.072;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.925;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XSRPKOpI-HlXhGbNsBGN-3" target="XSRPKOpI-HlXhGbNsBGN-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="430" as="sourcePoint" />
             <mxPoint x="480" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="400" />
-              <mxPoint x="480" y="441" />
+              <mxPoint x="480" y="240" />
+              <mxPoint x="480" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -114,13 +96,13 @@
         <mxCell id="XSRPKOpI-HlXhGbNsBGN-28" value="Token send response" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="740" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7P27dTdJx6TjnUaLDcUT-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XSRPKOpI-HlXhGbNsBGN-1" target="XSRPKOpI-HlXhGbNsBGN-3">
+        <mxCell id="7P27dTdJx6TjnUaLDcUT-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XSRPKOpI-HlXhGbNsBGN-1" target="XSRPKOpI-HlXhGbNsBGN-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="200" as="sourcePoint" />
             <mxPoint x="250" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7P27dTdJx6TjnUaLDcUT-2" value="Key Exchange" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7P27dTdJx6TjnUaLDcUT-2" value="Key Exchange" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="170" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
